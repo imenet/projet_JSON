@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class livre {
-	private String title;
+	public String title;
 	private String summary;
 	private int year;
 	private long[] actors;
