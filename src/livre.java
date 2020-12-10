@@ -1,10 +1,10 @@
 import java.util.Arrays;
 public class livre {
 	public String title;
-	private String summary;
-	private int year;
-	private long[] actors;
-	private Director director;
+	public String summary;
+	public int year;
+	public long[] actors;
+	public Director director;
 	
 	public livre() {}
 	
